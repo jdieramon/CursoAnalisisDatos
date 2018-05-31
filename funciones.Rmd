@@ -1,0 +1,123 @@
+---
+title: "Funciones en R"
+output: html_notebook
+---
+
+  1. [Escribiendo funciones](#escribiendo-funciones)
+  2. [Modificando funciones](#modificando-funciones)
+  3. [Funciones como argumentos](#funciones-como-argumentos)
+
+La actividad principal del programador en `R` consiste en escribir funciones. Usamos funciones para **encapsular** secuencias de código que necesitan ejecutarse varias veces. Mediante la escritura de una función, el desarrollador crea una interface para el código que queda explícitamente determinada mediante el uso de **argumentos**. La inteface proporciona la abstracción del código a los usuarios, es decir, les facilita la vida porque al usar la función únicamente con los argumentos que necesita, se evitan tener que conocer los detalle sobre cómo funciona el código. 
+  
+  
+#### 1. Escribiendo funciones
+Imaginemos que tenemos un dataframe y queremos obtener la **mediana** de cada columna.
+
+```{r cache = TRUE}
+# df1
+df <- data.frame(
+  a = rnorm(10), 
+  b = rnorm(10),
+  c = rnorm(10),
+  d = rnorm(10))
+```
+
+Una posible solución consiste en seleccionar las columnas una a una y a continuación calcular la mediana de cada una de ellas. Para seleccionar la columna de un dataframe podemos hacerlo de 3 formas distintas: 
+```{r median, cache = TRUE}
+median(df[[1]])
+median(df$a)
+median(df[,1])
+```
+
+Otra alternativa más elegante (porque evita la repetición de código) es el uso de un `for loop`. 
+```{r forloop}
+for (i in seq_along(df)) {
+  print(median(df[[i]]))
+  }
+```
+
+El problema del loop es que si tuviéramos que aplicarlo sobre un segundo dataframe, habría que volver a escribirlo, adaptando los parámetros para el nuevo caso. Si hubiera que volver a determinar las medianas de un tercer df, el problema sería el mismo. 
+
+```{r cache = TRUE}
+# df2
+df2 <- data.frame(
+  a = runif(5), 
+  b = rnorm(10),
+  c = runif(5),
+  d = rnorm(10))
+
+# for loop sobre df2
+for (i in seq_along(df)) {
+  print(median(df[[i]]))
+  }
+
+```
+Una forma de resolver esto es mediante una función que devuelva la mediana de las columnas de un df y tome 1 único argumento: el df sobre el que debe actuar. Como regla general podemos decir que cada vez que repitamos 3 veces el mismo código, ha llegado el momento de escribir una función.  
+
+```{r}
+col_median = function(df) {
+  
+  # ''' Toma 1 argumento (df)
+  # ''' Devuelve un vector con la mediana de las columnas 
+  
+  output <- vector("double", ncol(df))  
+  for (i in seq_along(df)) {            
+    output[[i]] <- median(df[[i]])      
+  }
+  
+  output
+}
+```
+
+Ahora podemos aplicar la función sobre tantos df como deseemos, simplemente determinando el argumento en el momento de llamar a la función. 
+```{r}
+col_median(df)
+```
+
+```{r}
+col_median(df2)
+```
+
+
+#### 2. Modificando funciones
+
+Las funciones son muy útiles porque una vez las tenemos, podemos modificarlas ligeramente para darles una nueva funcionalidad. Por ejemplo, modificando la función `col_median` podremos obtener rapidamente la **media** de las columnas de un df. 
+
+```{r}
+# Create col_mean() function to find column means
+col_mean = function(df) {
+  
+  # ''' Toma 1 argumento (df)
+  # ''' Devuelve un vector con la media de las columnas 
+  
+  output <- vector("double", ncol(df))  
+  for (i in seq_along(df)) {            
+    output[[i]] <- mean(df[[i]])      
+  }
+  
+  output
+}
+
+col_mean(df)
+```
+
+Y podríamos adaptarla también para encontrar la **desviación estandard** de cada columna. 
+```{r}
+# Define col_sd() function
+col_sd <- function(df) {
+  
+  # ''' Toma 1 argumento (df)
+  # ''' Devuelve un vector con la sd de las columnas 
+  
+  output <- numeric(length(df))
+  for (i in seq_along(df)) {
+    output[[i]] <- sd(df[[i]])
+  }
+  
+  output
+}
+
+col_sd(df)
+```
+
+#### 3. Funciones como argumentos
