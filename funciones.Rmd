@@ -97,7 +97,9 @@ col_mean = function(df) {
   
   output
 }
+```
 
+```{r}
 col_mean(df)
 ```
 
@@ -121,3 +123,32 @@ col_sd(df)
 ```
 
 #### 3. Funciones como argumentos
+Las 3 funciones anteriores sufren exactamente el mismo problema de repetición
+que tratabamos de resolver con el *for loop*. La unica diferencia entre las 3 funciones que hemos escrito es el *body*, el cuerpo de la funcion, es decir, la funcion que aplican. El resto, se repite exactamente, de modo que ha llegado el momento de escribir una nueva función. 
+  
+
+
+Lo resolvemos de la misma manera: extraemos lo unico que cambia y lo tratamos commo un argumento. Las 3 funciones son identicas y en 1 única funcion podemos hacer `col_median()`, `col_mean` o `col_sd`. 
+
+```{r}
+col_summary <- function(df, fun) {
+  
+  # ''' Toma 1 argumento (df)
+  # ''' Devuelve un vector con la función que se aplique sobre las columnas 
+  
+  output <- numeric(length(df))
+  for (i in seq_along(df)) {
+    output[[i]] <- fun(df[[i]])
+  }
+  
+  output
+}
+```
+
+Ahora solo queda aplicar al df la función que busquemos en cada caso: 
+```{r}
+col_summary(df, fun = mean)
+col_summary(df, fun = median)
+col_summary(df, fun = sd)
+```
+
