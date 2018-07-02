@@ -55,8 +55,7 @@ ymd(20180710)
 mdy(07102018)
 dmy(10072018)
 
-# estas funciones tb pueden crean fechas - horas combinando la funcion con "_" y uno o 
-#mas ???h???, ???m???, y ???s??? 
+# estas funciones tb pueden crean fechas - horas combinando la funcion con "_" y h,m,s 
 ymd_hms("2018-07-10 18:10:45")
 ymd_hm("2018-07-10 18:10")
 
