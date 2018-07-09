@@ -23,12 +23,12 @@ points(mydata$weight ~ jitter(as.numeric(mydata$Diet)),
 
 
 # =============================================================================
-## Directorio de trabajo, Gonzalo por fa completa 
+## Directorio de trabajo
 # =============================================================================
 
 
 # =============================================================================
-## Built-in functions, Gonzalo por fa completa 
+## Built-in functions
 # =============================================================================
 
 
