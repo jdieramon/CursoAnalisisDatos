@@ -1,5 +1,5 @@
 # Curso Análisis Datos
- * [Presentación](#presentación) .  
+ * [Presentación](#presentación)     
  * [Información](#información) 
  * [Calendario](#calendario)
  * [Programa](#programa)
