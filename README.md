@@ -6,16 +6,16 @@ La demanda de analistas de datos dentro de los ámbitos tecnológico y científi
 El término **Big Data** es hoy uno de los más usados en el mundo tecnológico. Este curso ayudará a los alumnos a desarrollar una serie de capacidades básicas que son necesarias para la Ciencia de Datos, como programaciónen R, búsqueda y descarga de datos en internet, procesado y limpieza de datos, visualización e interpretación de los resultados.   
 
 ## Información
-Dirección académica y profesorado: 
+__Dirección académica y profesorado:__   
 Dr Gonzalo Martínez  
 Dpto. Física Aplicada,  
 Universidad de Córdoba
   
-Dr Jose V. Die
+Dr Jose V. Die  
 Dpto Genética ETSIAM  
-Universidad de Córdoba
+Universidad de Córdoba  
 
-Secretaría técnica
+__Secretaría técnica__  
 Dra Lola Pérez  
 Dpto Genética ETSIAM  
 Universidad de Córdoba
