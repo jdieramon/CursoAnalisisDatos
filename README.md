@@ -20,7 +20,8 @@ __Secretaría técnica__
 Dra Lola Pérez  
 Dpto Genética ETSIAM  
 Universidad de Córdoba  
-dpcalle@uco.es  
+[mailto](mailto:dpcalle@uco.es)  
+
 
 
 __Dirección académica y profesorado:__   
