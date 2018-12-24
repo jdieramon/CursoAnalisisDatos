@@ -6,7 +6,7 @@
  * [Archivos de interés](#archivos-de-interés) 
 
 ## Presentación
-La demanda de analistas de datos dentro de los ámbitos tecnológico y científico está creciendo rápidamente.  En estos momentos, la toma de decisiones en el entorno empresarial, académico y de las administraciones públicas se basa en información generada a partir de un volumen creciente de datos.  El término **Big Data** es hoy uno de los más usados en el mundo tecnológico. Este curso ayudará a los alumnos a desarrollar una serie de **capacidades básicas** que son necesarias para la **Ciencia de Datos**, como programaciónen R, búsqueda y descarga de datos en internet, procesado y limpieza de datos, visualización e interpretación de los resultados.   
+La demanda de analistas de datos dentro de los ámbitos tecnológico y científico está creciendo rápidamente.  En estos momentos, la toma de decisiones en el entorno empresarial, académico y de las administraciones públicas se basa en información generada a partir de un volumen creciente de datos.  El término **Big Data** es hoy uno de los más usados en el mundo tecnológico. Este curso, ayudará a los alumnos a desarrollar las **capacidades básicas** necesarias para la **Ciencia de Datos**, como por ejemplo, programación en R, búsqueda y descarga de datos en internet, procesado y limpieza de datos, visualización e interpretación de resultados.   
 
 ## Programa  
 * Módulo 1 :  Fundamentos básicos de R  
