@@ -10,10 +10,10 @@ La demanda de analistas de datos dentro de los ámbitos tecnológico y científi
 
 ## Programa  
 * Módulo 1 :  Fundamentos básicos de R (scripts : [1](0script_ejemplo.R), [2](tema2_Basics.R), [3](tema3_Basics2.R))     
-* Módulo 2 :  Análisis de Exploración de Datos ([script](tema4_EDA.R))   
-* Módulo 3 :  Limpieza y manipulación datos con `tidyverse` ([script](tema5_tidyverse.R))    
-* Módulo 4 :  Cadenas de texto ([script](tema6_strings.R)   
-* Módulo 5 :  Funciones en R ([script](tema7_functions.R)  
+* [Módulo 2](tema4_EDA.R) :  Análisis de Exploración de Datos     
+* [Módulo 3](tema5_tidyverse.R) :  Limpieza y manipulación datos con `tidyverse`      
+* [Módulo 4](tema6_strings.R) :  Cadenas de texto     
+* [Módulo 5](tema7_functions.R) :  Funciones en R  
 
 ## Información
 __Secretaría técnica__  
