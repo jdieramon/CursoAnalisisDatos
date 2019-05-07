@@ -9,11 +9,11 @@
 La demanda de analistas de datos dentro de los ámbitos tecnológico y científico está creciendo rápidamente.  En estos momentos, la toma de decisiones en el entorno empresarial, académico y de las administraciones públicas se basa en información generada a partir de un volumen creciente de datos.  El término **Big Data** es hoy uno de los más usados en el mundo tecnológico. Este curso, ayudará a los alumnos a desarrollar las **capacidades básicas** necesarias para la **Ciencia de Datos**, como por ejemplo, programación en R, búsqueda y descarga de datos en internet, procesado y limpieza de datos, visualización e interpretación de resultados.   
 
 ## Programa  
-* Módulo 1 :  Fundamentos básicos de R  
+* Módulo 1 :  Fundamentos básicos de R (scripts : [1](0script_ejemplo.R), [2](tema2_Basics.R), [3](tema3_Basics2.R))     
 * Módulo 2 :  Análisis de Exploración de Datos ([script](tema4_EDA.R))   
-* Módulo 3 :  Limpieza y manipulación datos con TIDYVERSE
-* Módulo 4 :  Cadenas de texto  
-* Módulo 5 :  Funciones en R
+* Módulo 3 :  Limpieza y manipulación datos con `tidyverse` ([script](tema5_tidyverse.R))    
+* Módulo 4 :  Cadenas de texto ([script](tema6_strings.R)   
+* Módulo 5 :  Funciones en R ([script](tema7_functions.R)  
 
 ## Información
 __Secretaría técnica__  
