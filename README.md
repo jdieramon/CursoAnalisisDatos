@@ -11,11 +11,11 @@ La demanda de analistas de datos dentro de los ámbitos tecnológico y científi
 ## Programa  
 * Módulo 1 :  Fundamentos básicos de R (scripts : [1](0script_ejemplo.R), [2](tema2_Basics.R), [3](tema3_Basics2.R))   
   
-  * Instalación de R & RStudio
-  * Entorno de trabajo
-  * Definiendo vectores
-  * Manipulando vectores
-  * Tablas de datos 
+  - Instalación de R & RStudio
+  - Entorno de trabajo
+  - Definiendo vectores
+  - Manipulando vectores
+  - Tablas de datos 
   
 * [Módulo 2](tema4_EDA.R) :  Análisis de Exploración de Datos     
 * [Módulo 3](tema5_tidyverse.R) :  Limpieza y manipulación datos con `tidyverse`      
