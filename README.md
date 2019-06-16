@@ -50,6 +50,6 @@ Universidad de Córdoba
 
 
 ### Archivos de interés
-* [Código de Conducta](https://raw.githubusercontent.com/jdieramon/CursoAnalisisDatos/master/code_of_conduct.md)  
+* [Código de Conducta](https://jdieramon.github.io/pages/conduct.html)  
 * Guía de estilo (por [Hadley Wickham](http://adv-r.had.co.nz/Style.html))  
 * Code to joy (The Economist, por [Andrew Smith](https://www.1843magazine.com/features/code-to-joy))  
