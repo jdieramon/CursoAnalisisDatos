@@ -1,3 +1,5 @@
+## Código de Conducta   
+
 Los organizadores del curso 'Introducción a R para el Análisis de Datos' se comprometen a proporcionar una experiencia acogedora y libre de acoso para todos, independientemente de su género, identidad de género y expresión, edad, orientación sexual, discapacidad, apariencia física, tamaño corporal, raza, etnia, religión (o falta de ella) u elecciones de tecnología. No toleramos el acoso de los participantes en el curso de ninguna forma. El lenguaje y las imágenes sexuales no son apropiadas para ningún lugar del curso, incluídas las clases teóricas, ejercicios, descansos, Twitter y otros medios *on line*. Los participantes del curso que violen estas reglas pueden ser sancionados o expulsados del curso a discreción de los organizadores del curso.  
   
 Este código de conducta se aplica a todos los participantes, incluyendo al personal y profesorado del curso, y se aplica a todos los modos de interacción, tanto en persona como *on line*, incluyendo los repositorios de proyectos GitHub, la plataforma Moodle, los canales de Slack y Twitter.
