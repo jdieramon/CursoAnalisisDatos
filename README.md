@@ -3,8 +3,9 @@
  * [Programa](#programa)
  * [Información](#información) 
  * [Calendario](#calendario)
+ * [Código de Conducta](#código-de-conducta)  
  * [Archivos de interés](#archivos-de-interés) 
- * [Código de Conducta](#código-de-conducta)   
+ 
 
 ## Presentación
 La demanda de analistas de datos dentro de los ámbitos tecnológico y científico está creciendo rápidamente.  En estos momentos, la toma de decisiones en el entorno empresarial, académico y de las administraciones públicas se basa en información generada a partir de un volumen creciente de datos.  El término **Big Data** es hoy uno de los más usados en el mundo tecnológico. Este curso, ayudará a los alumnos a desarrollar las **capacidades básicas** necesarias para la **Ciencia de Datos**, como por ejemplo, programación en R, búsqueda y descarga de datos en internet, procesado y limpieza de datos, visualización e interpretación de resultados.   
@@ -50,11 +51,6 @@ Universidad de Córdoba
 
 
 
-### Archivos de interés
-* Guía de estilo (por [Hadley Wickham](http://adv-r.had.co.nz/Style.html))  
-* Code to joy (The Economist, por [Andrew Smith](https://www.1843magazine.com/features/code-to-joy))  
-
-
 ## Código de Conducta   
 
 Los organizadores del curso 'Introducción a R para el Análisis de Datos' se comprometen a proporcionar una experiencia acogedora y libre de acoso para todos, independientemente de su género, identidad de género y expresión, edad, orientación sexual, discapacidad, apariencia física, tamaño corporal, raza, etnia, religión (o falta de ella) u elecciones de tecnología. No toleramos el acoso de los participantes en el curso de ninguna forma. El lenguaje y las imágenes sexuales no son apropiadas para ningún lugar del curso, incluídas las clases teóricas, ejercicios, descansos, Twitter y otros medios *on line*. Los participantes del curso que violen estas reglas pueden ser sancionados o expulsados del curso a discreción de los organizadores del curso.  
@@ -75,3 +71,10 @@ Si alguno de los asistentes tiene un comportamiento de acoso, cualquier responsa
 Cualquier comentario sobre este y cualquier otro aspecto del curso es muy bien recibido y agradecemos tu colaboración para que que sea una experiencia segura, agradable y amistosa para todos los que participan.
 
 Este código de conducta se ha adaptado del código de conducta de la conferencia [rOpenSci’s 2018](http://unconf18.ropensci.org/coc.html) y a su vez se basa en el código de conducta de [ROpenSci](https://ropensci.org/code-of-conduct/). Este código de conducta está bajo la licencia [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).  Por favor, revisa la página para obtener más información sobre la licencia y la atribución.
+
+
+
+
+### Archivos de interés
+* Guía de estilo (por [Hadley Wickham](http://adv-r.had.co.nz/Style.html))  
+* Code to joy (The Economist, por [Andrew Smith](https://www.1843magazine.com/features/code-to-joy))  
