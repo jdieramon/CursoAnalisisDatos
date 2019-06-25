@@ -5,3 +5,11 @@ colors()
 ```
 
 Un ejemplo de los colores disponibles en R puede encontrarse [aquí](Rcolor.pdf){:target="_blank"}.  
+
+
+El paquete `RColorBrewer`tiene disponible una serie de paletas que se pueden consultar : 
+```{r}
+library(RColorBrewer)
+display.brewer.all()
+```
+
