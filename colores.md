@@ -1,5 +1,5 @@
 ### Colores
-Para encontrar nuestro color favorito en *R*, basta con llamar a la función `colors``
+Para encontrar nuestro color favorito en **R**, basta con llamar a la función `colors``
 ```{r]
 colors()
 ```
