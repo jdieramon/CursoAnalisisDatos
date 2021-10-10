@@ -26,7 +26,7 @@ La demanda de analistas de datos dentro de los ámbitos tecnológico y científi
 
 ## Información
 __Secretaría técnica__  
-Dra Lola Pérez  
+Dra M.Dolores Pérez  
 Dpto Genética ETSIAM  
 Universidad de Córdoba  
 [email](mailto:dpcalle@uco.es)  
@@ -34,9 +34,9 @@ Universidad de Córdoba
 
 
 __Dirección académica y profesorado:__   
-Dr Gonzalo Martínez  
-Dpto. Física Aplicada,  
-Universidad de Córdoba
+Dr Jose R. Caro  
+Dpto Estadística, Econometría, Investigación Operativa, Organización de Empresas y Economía Aplicada.   
+Universidad de Córdoba      
   
 Dr Jose V. Die  
 Dpto Genética ETSIAM  
@@ -47,7 +47,8 @@ Universidad de Córdoba
 ## Calendario
 * 1a edición: Universidad de Córdoba, 9-13  JUL 2018.   
 * 2a edición: Universidad de Córdoba, 10-20 DIC 2018. 
-* 3a edición: Universidad de Córdoba, 17-27 JUN 2019.   
+* 3a edición: Universidad de Córdoba, 17-27 JUN 2019.  
+* 4a edición: Universidad de Córdoba, 27NOV- 4 DIC 2019.
 
 
 
@@ -64,7 +65,7 @@ Los participantes en el curso aceptan:
   * Cuidar unos de otros. Si observas una situación peligrosa, alguien en apuros o violaciones de este código de conducta, incluso si parecen intrascendentes, avisa a un responsable del curso.  
     
 **¿Necesitas ayuda?  
-Si tienes alguna duda o inquietud, habla con Lola Pérez, Gonzalo Martínez, José R. Caro o José Die.**  
+Si tienes alguna duda o inquietud, puedes hablar con Lola Pérez, José R. Caro o José Die.**  
   
 Si alguno de los asistentes tiene un comportamiento de acoso, cualquier responsable del curso puede tomar la acción legal que consideremos apropiada, que incluye, entre otras, advertir a esa persona o pedirle que abandone el curso. (Si alguien considera que ha sido injustamente acusado de violar este código de conducta, debe comunicarse con el resto de responsables del curso por escrito con una descripción concreta de su queja).   
 
