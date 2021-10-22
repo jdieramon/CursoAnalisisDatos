@@ -1,6 +1,6 @@
 ---
 title: "Introducción al Análisis de Datos con R"
-subtitle: "4ª Edición (2021)"
+subtitle: "5ª Edición (2021)"
 author: "© José Die & José Caro (2021)"
 output: rmdformats::readthedown
 ---
