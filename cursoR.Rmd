@@ -7,6 +7,7 @@ output: rmdformats::readthedown
 
 ![](rstudio.jpeg){ width=10% } ![](ggplot2.png){ width=10% } ![](tidyverse.png){ width=10% } ![](tidymodels.png){ width=10% }
 
+        
 ## Presentación
 
 La demanda de analistas de datos dentro de los ámbitos tecnológico y científico está creciendo rápidamente. En estos momentos, la toma de decisiones en el entorno empresarial, académico y de las administraciones públicas se basa en información generada a partir de un volumen creciente de datos. El término ***Big Data*** es hoy uno de los más usados en el mundo tecnológico. Este curso, ayudará a los alumnos a desarrollar las **capacidades básicas** necesarias para la ***Ciencia de Datos***, como por ejemplo, programación en `R`, búsqueda y descarga de datos en internet, procesado y limpieza de datos, visualización e interpretación de resultados.
@@ -15,7 +16,7 @@ El curso se plantea como una introducción al análisis de datos de una forma pr
 
 ## Información
 
-#### _Secretaría Técnica y Coordinación_: 
+#### Secretaría Técnica y Coordinación: 
   - [Dra. María Dolores Pérez <img src="https://img.icons8.com/external-kiranshastry-lineal-kiranshastry/16/000000/external-email-interface-kiranshastry-lineal-kiranshastry.png"/>](mailto:dpcalle@uco.es) 
     + Dept. Genética ETSIAM.
     + Universidad de Córdoba.
@@ -34,11 +35,11 @@ El curso se plantea como una introducción al análisis de datos de una forma pr
 
 * Se ha organizado el curso en los siguientes días y horas.
 
-| **Semana I**   | **Día** | **Hora** |
+| **Semana 1**   | **Día** | **Hora** |
 |:---------------|:-------|:------|
 | | Jueves, 9 diciembre   | 16:00-20:15  |
 | | Viernes, 10 diciembre | 09:00-13:15  |
-| **Semana II** | | |
+| **Semana 2** | | |
 | | Lunes, 13 diciembre   | 16:00-20:15  |
 | | Martes, 14 diciembre | 16:00-20:15  |
 | | Miércoles, 15 diciembre   | 16:00-20:15 |
@@ -59,9 +60,14 @@ El curso se plantea como una introducción al análisis de datos de una forma pr
 #### Módulo 4: Cadenas de texto.
 #### Módulo 5: Funciones en `R`.
 
+### <sup>*</sup>_Cambios de Última Hora_
+
+_Es posible que el esquema y plan del curso visto anteriormente pueda sufrir modificaciones y readaptaciones en función de la disponibilidad del aula de impartición y/o el grado de avance de la materia._
+
+
 ## Código de Conducta
 
-Los organizadores del curso *Introducción a R para el Análisis de Datos* se comprometen a proporcionar una experiencia acogedora y libre de acoso para todos, independientemente de su género, identidad de género y expresión, edad, orientación sexual, discapacidad, apariencia física, tamaño corporal, raza, etnia, religión (o falta de ella) u elecciones de tecnología. No toleramos el acoso de los participantes en el curso de ninguna forma. El lenguaje y las imágenes sexuales no son apropiadas para ningún lugar del curso, incluídas las clases teóricas, ejercicios, descansos, Twitter y otros medios on line. Los participantes del curso que violen estas reglas pueden ser sancionados o expulsados del curso a discreción de los organizadores del curso.
+Los organizadores del curso **Introducción a R para el Análisis de Datos** se comprometen a proporcionar una experiencia acogedora y libre de acoso para todos, independientemente de su género, identidad de género y expresión, edad, orientación sexual, discapacidad, apariencia física, tamaño corporal, raza, etnia, religión (o falta de ella) u elecciones de tecnología. No toleramos el acoso de los participantes en el curso de ninguna forma. El lenguaje y las imágenes sexuales no son apropiadas para ningún lugar del curso, incluídas las clases teóricas, ejercicios, descansos, Twitter y otros medios on line. Los participantes del curso que violen estas reglas pueden ser sancionados o expulsados del curso a discreción de los organizadores del curso.
 
 Este código de conducta se aplica a todos los participantes, incluyendo al personal y profesorado del curso, y se aplica a todos los modos de interacción, tanto en persona como on line, incluyendo los repositorios de proyectos GitHub, la plataforma Moodle, los canales de Slack y Twitter.
 
@@ -86,9 +92,14 @@ Este código de conducta está bajo la licencia:
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br /> <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
 
 
-### <sup>*</sup>_Cambios de Última Hora_
 
-_Es posible que el esquema y plan del curso visto anteriormente pueda sufrir modificaciones y readaptaciones en función de la disponibilidad del aula de impartición y/o el grado de avance de la materia._
+
+## Ediciones
+
+* 1a edición: Universidad de Córdoba, 9-13  JUL 2018.   
+* 2a edición: Universidad de Córdoba, 10-20 DIC 2018. 
+* 3a edición: Universidad de Córdoba, 17-27 JUN 2019.  
+* 4a edición: Universidad de Córdoba, 27NOV- 4 DIC 2019.
 
 ## Archivos de interés
 
