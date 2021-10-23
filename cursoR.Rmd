@@ -111,4 +111,4 @@ Este código de conducta está bajo la licencia:
   
   Con la colaboración de:
   
-  ![](img/uco.png){ width=15% } ![]img/(idep.jpg){ width=15% }
+  ![](img/uco.png){ width=15% } ![](img/idep.jpg){ width=15% }
