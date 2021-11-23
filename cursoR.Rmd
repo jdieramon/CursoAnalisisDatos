@@ -109,6 +109,6 @@ Este código de conducta está bajo la licencia:
 
 ---
   
-  Con la colaboración de:
+  Organiza :
   
   ![](img/uco.png){ width=15% } ![](img/idep.jpg){ width=15% }
