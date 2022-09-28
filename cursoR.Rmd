@@ -25,7 +25,7 @@ El curso se plantea como una introducción al análisis de datos de una forma pr
 - [Dr. José V. Die <img src="https://img.icons8.com/external-kiranshastry-lineal-kiranshastry/16/000000/external-email-interface-kiranshastry-lineal-kiranshastry.png"/>](mailto:jdie@uco.es)
 + Dept. de Genética ETSIAM.
 + Universidad de Córdoba.<br/><br/>
-  - [Dr. José R. Caro <img src="https://img.icons8.com/external-kiranshastry-lineal-kiranshastry/16/000000/external-email-interface-kiranshastry-lineal-kiranshastry.png"/>](mailto:jrcaro@uco.es)
+  - Dr. José R. Caro <img src="https://img.icons8.com/external-kiranshastry-lineal-kiranshastry/16/000000/external-email-interface-kiranshastry-lineal-kiranshastry.png"/>
 + Dpto. de Estadística, Econometría, Investigación Operativa, Organización de Empresas y Economía Aplicada.
 + Universidad de Córdoba.<br/><br/>
   
@@ -59,7 +59,10 @@ El curso se plantea como una introducción al análisis de datos de una forma pr
 #### Módulo 3: Limpieza y manipulación datos con `tidyverse`.
 #### Módulo 4: Cadenas de texto.
 #### Módulo 5: Funciones en `R`.
+<br>
 
+#### Datos del [curso](https://github.com/jdieramon/CursoAnalisisDatos/tree/master/datos)
+<br>
 ### <sup>*</sup>_Cambios de Última Hora_
 
 _Es posible que el esquema y plan del curso visto anteriormente pueda sufrir modificaciones y readaptaciones en función de la disponibilidad del aula de impartición y/o el grado de avance de la materia._
@@ -79,7 +82,7 @@ Los participantes en el curso aceptan:
 
 **¿Necesitas ayuda?**
   
-  **Si tienes alguna duda o inquietud, puedes hablar con Lola Pérez, José R. Caro o José Die.**
+  **Si tienes alguna duda o inquietud, puedes hablar con Lola Pérez o José Die.**
   
   Si alguno de los asistentes tiene un comportamiento de acoso, cualquier responsable del curso puede tomar la acción legal que consideremos apropiada, que incluye, entre otras, advertir a esa persona o pedirle que abandone el curso. (Si alguien considera que ha sido injustamente acusado de violar este código de conducta, debe comunicarse con el resto de responsables del curso por escrito con una descripción concreta de su queja).
 
@@ -99,7 +102,8 @@ Este código de conducta está bajo la licencia:
 * 1a edición: Universidad de Córdoba, 9-13  JUL 2018.   
 * 2a edición: Universidad de Córdoba, 10-20 DIC 2018. 
 * 3a edición: Universidad de Córdoba, 17-27 JUN 2019.  
-* 4a edición: Universidad de Córdoba, 27NOV- 4 DIC 2019.
+* 4a edición: Universidad de Córdoba, 27NOV- 4 DIC 2019.  
+* 5a edición: Universidad de Córdoba, 09-17 DIC 2020.  
 
 
 ## Archivos de interés
